@@ -159,3 +159,4 @@ unstructured==0.8.1
 ai21==1.2.6
 typing-extensions==4.5.0
 llama_cpp_python==0.2.7
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
